@@ -1,0 +1,17 @@
+SEMANA 10 — QWEN LOCAL LAB
+
+1. Extraia este ZIP.
+2. Abra a pasta extraída no VS Code.
+3. Abra Terminal > New Terminal.
+4. Execute: node -v
+5. Execute: npm install
+6. Execute: npm run dev
+7. Abra a URL exibida pelo Vite no Chrome ou Edge.
+8. Siga o CADERNO DO ALUNO antes de carregar o modelo.
+
+IMPORTANTE:
+- O modelo local usa WebGPU e faz um download grande no primeiro carregamento.
+- Não existe chave de API neste projeto.
+- O modo Demonstração é um fallback SIMULADO e aparece identificado na tela.
+- Não edite os arquivos de src/ai durante a atividade.
+- Ao final, abra um segundo terminal e rode: npm run build
